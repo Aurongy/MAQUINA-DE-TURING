@@ -1,0 +1,15 @@
+SIMULADOR DE MAQUINA DE TURING (Java 11 o superior)
+
+Ejecutar siempre desde la carpeta del proyecto (donde esta ejemplo_anbn.txt).
+
+COMPILAR (ambas versiones):
+  javac -encoding UTF-8 -d out src/TuringSimulator.java src/TuringGUI.java
+
+INTERFAZ GRAFICA (recomendada):
+  java -cp out TuringGUI
+
+VERSION DE CONSOLA:
+  java -cp out TuringSimulator
+
+Archivo de ejemplo: ejemplo_anbn.txt (lenguaje a^n b^n). Pruebe: aabb (acepta), aab (no acepta).
+Con IDE (NetBeans/Eclipse/IntelliJ): cree un proyecto y copie los dos .java de src/.

@@ -1,0 +1,23 @@
+Estados(
+q0, q1, q2, q3, qa, qr )
+Inicial(
+q0 )
+Ha(
+qa )
+He(
+qr )
+Alfabeto(
+a, b )
+Cinta(
+X, Y, _ )
+MT(q0, a) = (q1, X, D)
+MT(q0, Y) = (q3, Y, D)
+MT(q0, _) = (qa, _, N)
+MT(q1, a) = (q1, a, D)
+MT(q1, Y) = (q1, Y, D)
+MT(q1, b) = (q2, Y, I)
+MT(q2, a) = (q2, a, I)
+MT(q2, Y) = (q2, Y, I)
+MT(q2, X) = (q0, X, D)
+MT(q3, Y) = (q3, Y, D)
+MT(q3, _) = (qa, _, N)
