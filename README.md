@@ -94,8 +94,6 @@ Si la compilación termina sin mostrar errores, el programa estará listo para e
 
 <img width="1167" height="630" alt="image" src="https://github.com/user-attachments/assets/4fd603c4-99d5-4aa6-8b65-3f1561b12185" />
 
-<br><br>
-
 *Figura 2. Compilación correcta de los archivos TuringSimulator.java y TuringGUI.java.*
 
 # V. EJECUCIÓN DEL PROGRAMA
@@ -129,8 +127,6 @@ Una vez cargado correctamente, se mostrarán los estados, el estado inicial y el
 
 <img width="1905" height="732" alt="image" src="https://github.com/user-attachments/assets/242ebb5f-f750-4fbe-bb4b-8496acd49942" />
 
-<br><br>
-
 *Figura 4. Selección y carga del archivo de definición de la máquina.*
 
 ### 6.2. Ingresar la cadena
@@ -140,8 +136,6 @@ Escribir en el campo de entrada la cadena que se desea procesar.
 El programa valida los caracteres ingresados y verifica que pertenezcan al alfabeto definido para la máquina.
 
 <img width="1907" height="188" alt="image" src="https://github.com/user-attachments/assets/a87eb31f-596a-49a0-aeb2-75c0bb042b4f" />
-
-<br><br>
 
 *Figura 5. Ingreso de una cadena para iniciar la simulación.*
 
@@ -159,8 +153,6 @@ El cabezal señala la posición actual de lectura y escritura, mientras que el i
 
 <img width="1541" height="267" alt="image" src="https://github.com/user-attachments/assets/a3aa89bb-0433-4148-a17c-23487e6aaaf7" />
 
-<br><br>
-
 *Figura 6. Representación gráfica de la cinta y posición del cabezal.*
 
 ### 6.5. Observar el diagrama de estados
@@ -169,8 +161,6 @@ El diagrama representa gráficamente los estados de la máquina y las conexiones
 
 Durante la ejecución, el arco correspondiente a la transición utilizada se resalta para identificar visualmente el cambio de estado.
 <img width="1258" height="262" alt="image" src="https://github.com/user-attachments/assets/9ee2bc70-030e-485e-83ca-bfbf615548cc" />
-
-<br><br>
 
 *Figura 7. Diagrama de estados con la transición activa resaltada.*
 
@@ -181,8 +171,6 @@ En el panel izquierdo se presenta la función de transición δ.
 La regla utilizada durante cada operación se resalta para facilitar la identificación de la instrucción aplicada.
 
 <img width="366" height="525" alt="image" src="https://github.com/user-attachments/assets/75b75bca-512f-4854-bce2-244603bbd38c" />
-
-<br><br>
 
 *Figura 8. Panel de transiciones de la Máquina de Turing.*
 
@@ -200,8 +188,6 @@ En la parte inferior se encuentra una tabla que muestra:
 <img width="1912" height="232" alt="image" src="https://github.com/user-attachments/assets/c2d48349-e025-4c91-b299-482aad2bbb0f" />
 <img width="1892" height="193" alt="image" src="https://github.com/user-attachments/assets/57df4981-4123-41fd-8966-b2efa9a279f9" />
 <img width="1902" height="102" alt="image" src="https://github.com/user-attachments/assets/1e68e060-965a-47ca-9392-cd1bed91a169" />
-
-<br><br>
 
 *Figura 9. Registro de las operaciones realizadas durante la simulación.*
 
@@ -221,8 +207,6 @@ El simulador dispone de los siguientes controles:
 <img width="207" height="86" alt="image" src="https://github.com/user-attachments/assets/e5cad79e-146e-4416-85da-7853dbdd55b6" />
 <img width="202" height="80" alt="image" src="https://github.com/user-attachments/assets/76fa9ff1-29fe-4c96-9a22-759e987e1281" />
 
-<br><br>
-
 *Figura 10. Controles para ejecutar, pausar, avanzar paso a paso y reiniciar la simulación.*
 
 # VII. INTERPRETACIÓN DE RESULTADOS
@@ -241,13 +225,9 @@ El resultado también se muestra mediante colores en la interfaz y queda registr
 
 <img width="1542" height="497" alt="image" src="https://github.com/user-attachments/assets/91f02e37-6fe3-4939-8058-cbec0545c169" />
 
-<br><br>
-
 *Figura 11. Mensaje de aceptación al finalizar la simulación.*
 
 <img width="1251" height="517" alt="image" src="https://github.com/user-attachments/assets/4351e45e-3e11-419f-8c4d-6294a275df42" />
-
-<br><br>
 
 *Figura 12. Mensaje de rechazo o no aceptación de una cadena.*
 
