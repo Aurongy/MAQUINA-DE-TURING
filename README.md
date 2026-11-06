@@ -1,5 +1,6 @@
 # MANUAL DE COMPILACIÓN Y EJECUCIÓN
 ## Simulador de Máquina de Turing
+https://www.youtube.com/watch?v=MLnHIN1QKHs
 
 # I. REQUISITOS DEL SISTEMA
 
