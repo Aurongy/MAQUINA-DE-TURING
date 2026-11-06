@@ -88,8 +88,6 @@ Si la compilación termina sin mostrar errores, el programa estará listo para e
 
 <img width="1153" height="67" alt="image" src="https://github.com/user-attachments/assets/45a5ea33-cc2e-43d4-b1dc-ae15313a284e" />
 
-<br><br>
-
 *Figura 1. Verificación de la instalación de Java mediante CMD o PowerShell.*
 
 <img width="1167" height="630" alt="image" src="https://github.com/user-attachments/assets/4fd603c4-99d5-4aa6-8b65-3f1561b12185" />
